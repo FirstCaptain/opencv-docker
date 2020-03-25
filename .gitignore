@@ -1,0 +1,3 @@
+app/.sconsign.dblite
+app/src/*.o
+app/test
